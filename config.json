@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-automation",
+      "title": "Automating File Organization",
+      "description": "Automate file organization with pathlib, shutil, and command-line arguments using only the Python standard library.",
+      "path": "assignments/file-automation",
+      "dueDate": "2026-09-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
